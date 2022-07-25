@@ -9,14 +9,14 @@
 ```
 conda create --prefix ./env python=3.7 -y
 ```
-
 ### Step 04- Activate environment
-```conda activate ./env
+```
+conda activate ./env
 ```
 
 ### STEP 05- install the requirements
-
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 
