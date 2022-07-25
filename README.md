@@ -13,7 +13,8 @@
 
 ### STEP 05- install the requirements
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
+
 
 ## OR  use init_setup.sh if not want run step 01 to step 05
 
