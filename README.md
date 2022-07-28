@@ -27,3 +27,21 @@ pip install -r requirements.txt
 ```
 bash bash init_setup.sh
 ```
+
+### clone the yolov5 in root dir
+
+```
+git clone https://github.com/ultralytics/yolov5.git
+```
+### Now install the requirements or dependency for yolov5(go inside yolov5 folder and run below cmd) 
+
+```
+cd yolov5
+pip install -r requirements.txt
+```
+
+### export the environment as conda.yaml for mlflow
+
+```
+conda env export > conda.yaml
+```

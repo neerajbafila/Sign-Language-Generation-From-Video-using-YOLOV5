@@ -1,1 +1,9 @@
 mkdocs-material
+notebook
+opencv-python
+numpy
+tqdm
+pandas
+matplotlib
+mlflow
+pyYAML
