@@ -1,7 +1,7 @@
 # MLFLOW setup
 
-## install mlflow
-### create MLproject file containing details of conda environments, below is the basic structure of file.
+ install mlflow
+ create MLproject file containing details of conda environments, below is the basic structure of file.
 ```
 name: project name
 

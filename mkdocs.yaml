@@ -3,6 +3,13 @@ site_name: REPO_NAME_OR_SITE_NAME
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - environmentConfig: environmentConfig.md
+  - mlflowSetup_setup: mlflowSetup.md
+  - ModelConfigForCustomData: modelConfigForCustomData.md
+  - Trainning: ModelTrainning.md
+
+
+
 
 site_author: Neeraj Bafila
 site_description: >-

@@ -1,6 +1,6 @@
 # Sign-Lanhuage-Genration-From-Video-YOLOV5
 
-## STEPS for environment creation and activation 
+<!-- ## STEPS for environment creation and activation 
 
 ### 01  Create a repository by using template repository.
 
@@ -49,4 +49,4 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 
 ```
 conda env export > conda.yaml
-```
+``` -->
